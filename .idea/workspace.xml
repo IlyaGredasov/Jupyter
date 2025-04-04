@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9f04cb6-b0cb-4661-acb3-f68dfe4e4afd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kaggle/PyTorch/Titanic.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draft.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finance.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lotto.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNISTFashion.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RANEPA Analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHAD_Seminar_01.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHAD_Seminar_02.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHAD_Seminar_03.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHAD_Seminar_04.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHAD_Seminar_05.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHAD_Seminar_06.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHAD_Seminar_07.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHAD_Seminar_08.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHAD_Seminar_09.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHAD_Seminar_10.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHAD_Seminar_11.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHAD_Seminar_12.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHAD_Seminar_13.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SHAD_Seminar_14.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YOLO_01.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IlyaGredasov&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IlyaGredasov/Jupyter&quot;,
+    &quot;accountId&quot;: &quot;0ec18944-b17e-4c5f-8370-79c1186ddc46&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2vBORjHMN01sxaGl8Hs2uoWvuH0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programming/Python/Jupyter&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Jupyter" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Jupyter" />
+      </console-settings>
+    </option>
+    <option name="myCodeCompletionOption" value="Runtime" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySaveCallSignatures" value="true" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9f04cb6-b0cb-4661-acb3-f68dfe4e4afd" name="Changes" comment="" />
+      <created>1743614994595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743614994595</updated>
+      <workItem from="1743614995607" duration="313000" />
+      <workItem from="1743615321489" duration="199000" />
+      <workItem from="1743615529231" duration="153000" />
+      <workItem from="1743615697805" duration="493000" />
+      <workItem from="1743616720355" duration="352000" />
+      <workItem from="1743617091803" duration="341000" />
+      <workItem from="1743617960144" duration="42000" />
+      <workItem from="1743618043686" duration="131000" />
+      <workItem from="1743618185740" duration="170000" />
+      <workItem from="1743618383037" duration="2169000" />
+      <workItem from="1743620949614" duration="790000" />
+      <workItem from="1743663909948" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
